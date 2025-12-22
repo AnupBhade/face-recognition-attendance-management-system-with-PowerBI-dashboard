@@ -63,13 +63,6 @@ Here's the link of the [Youtube](https://youtu.be/JKSU7lbZ3ZE) video demonstrati
   
   ![image](https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard/assets/72063042/2ef80327-c75e-4c5e-810d-b5b6387b6dd2)
 
-- Fig.3: Face is detected in low light conditions
-
-  ![image](https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard/assets/72063042/3578757a-a775-4f43-9d99-48e085af486c)
-
-- Fig.4: Face is detected from different angles
-
-  <img src = "https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard/assets/72063042/60365317-d9ea-467a-95b5-b213818739ae" width="700" height="500">
 
 - Fig.5: Administrator Login Page
 
