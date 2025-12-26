@@ -59,22 +59,17 @@ Here's the link of the [Youtube](https://youtu.be/JKSU7lbZ3ZE) video demonstrati
   
   ![image](https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard/assets/72063042/b5f28977-3781-4091-bd69-e2bdd392a548)
 
-- Fig.2: Attendance Punching using FRAMS
-  
-  ![image](https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard/assets/72063042/2ef80327-c75e-4c5e-810d-b5b6387b6dd2)
 
-
-- Fig.5: Administrator Login Page
+- Fig.2: Administrator Login Page
 
   ![image](https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard/assets/72063042/9c60132b-0b56-4a1b-8cea-b7b87b43ea28)
 
-- Fig.6: Page showing the current day’s attendance
+- Fig.3: Page showing the current day’s attendance
 
   ![image](https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard/assets/72063042/b93b3afb-113d-406f-ad62-062b0fbaeb0e)
 
 
-
-- Fig.7: Attendance Dashboard in Power BI
+- Fig.4: Attendance Dashboard in Power BI
 
   ![image](https://github.com/amlanmohanty1/face-recognition-attendance-management-system-with-PowerBI-dashboard/assets/72063042/532a47ce-fd9b-4b6a-9ef8-effd19b22dc2)
 
